@@ -1,0 +1,11 @@
+<!ELEMENT kochbuch (prozess, backzeit, zutaten, zutat, info, info1, info2, info3, info4)>
+<!ELEMENT prozess (backzeit, zutaten, zutat, info, info1, info2, info3, info4)>
+
+<!ELEMENT backzeit(#PCDATA)>
+<!ELEMENT zutaten(#PCDATA)>
+<!ELEMENT zutat(#PCDATA)>
+<!ELEMENT info(#PCDATA)>
+<!ELEMENT info1(#PCDATA)>
+<!ELEMENT info2(#PCDATA)>
+<!ELEMENT info3(#PCDATA)>
+<!ELEMENT info4(#PCDATA)>

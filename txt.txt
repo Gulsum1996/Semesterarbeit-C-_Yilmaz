@@ -1,0 +1,3 @@
+<inhaltsstoffe>Gluten</inhaltsstoffe>
+<zutat>pflanzliche Butter</zutat>
+<sonstiges>Vegan</sonstiges>

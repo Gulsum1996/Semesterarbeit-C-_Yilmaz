@@ -1,0 +1,21 @@
+<kochbuch>  
+        
+			
+            <prozess>                
+                
+				<backzeit>20 min</backzeit>
+                <zutaten>Blaetterteig</zutaten>
+				 <zutat>Zucker-Zimt-Mischung</zutat>
+				 
+                <info>Blaetterteig_ausrollen</info>
+				<info1>Zucker-Zimt-Mischung_darueber_streuen</info1>
+				<info3>zu_einer_Rolle_rollen</info3>
+				<info4>Fertig!</info4>
+				
+            </prozess>
+			
+      
+</kochbuch>
+<inhaltsstoffe>Gluten</inhaltsstoffe>
+<zutat>pflanzliche Butter</zutat>
+<sonstiges>Vegan</sonstiges>
